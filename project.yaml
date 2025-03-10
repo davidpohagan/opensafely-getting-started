@@ -11,4 +11,4 @@ actions:
     needs: [generate_dataset]
     outputs:
       moderately_sensitive:
-        chart: output/report.png
+        chart: output/report.png 
