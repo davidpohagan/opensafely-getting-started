@@ -12,3 +12,13 @@ Encoding: UTF-8
 
 RnwWeave: knitr
 LaTeX: XeLaTeX
+
+MarkdownReferences: Document
+
+ZoteroLibraries: "My Library"
+
+PythonType: system
+PythonVersion: 3.12.6
+PythonPath: C:/Program Files/Python312/python.exe
+
+SpellingDictionary: en_GB
